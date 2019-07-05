@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/example/example1/src/page/mixin/persion.mixin.js" />
+        <item url="file://$PROJECT_DIR$/dist/example/example1/config/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/example/example1/src/router/index.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/example/example1/src/page/mixin/persion.mixin.js" />
+      <root url="file://$PROJECT_DIR$/dist/example/example1/config/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/example/example1/src/router/index.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
